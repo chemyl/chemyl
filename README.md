@@ -7,8 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolya-maltsev/)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/replicantDuke)
 
-### Tech stack
-
+### Tech stack:
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=red&logo=Java&logoColor=8B00FF&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
 ![Rest-Assured](https://img.shields.io/static/v1?style=for-the-badge&message=Rest-Assured&color=greenf&logo=Appium&logoColor=8B00FF&label=)
@@ -35,7 +34,7 @@
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 
-### My GitHub stats
+### My GitHub stats:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemyl&hide=TeX&layout=compact&theme=calm_pink)
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=chemyl&count_private=true&show_icons=true&include_all_commits=true&theme=calm_pink&layout=compact)
 
