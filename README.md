@@ -1,8 +1,7 @@
 ## Welcome to my projects page👋
 ### About me:
--    🟢 Results-oriented AQA engineer with 4 years of Java test automation experience;
--    🟢 In-depth knowledge of Agile SDLC, testing methodologies and test design techniques;
--    🟢 Experience in creating hybrid autotesting frameworks;
+-    🟢 Software AQA engineer with 4+ years of Java test automation experience;
+-    🟢 REST, SOAP, WebSocket, Microservices, WebUI, MobileUI, Queue, Data Quality;
 -    🟢 ISTQB® Certified Tester;
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolya-maltsev/)
