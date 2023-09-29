@@ -9,11 +9,12 @@
 
 ### Tech stack:
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=red&logo=Java&logoColor=8B00FF&label=)
-![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=7F52FF&logo=Typescript&logoColor=FFFFFF&label=)
 ![Rest-Assured](https://img.shields.io/static/v1?style=for-the-badge&message=Rest-Assured&color=greenf&logo=Appium&logoColor=8B00FF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![Selenide](https://img.shields.io/static/v1?style=for-the-badge&message=Selenide&color=0000ff&logo=Appium&logoColor=8B00FF&label=)
+![Cypress](https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=green&logo=Cypress&logoColor=white&label=)
 ![Appium](https://img.shields.io/static/v1?style=for-the-badge&message=Appium&color=8B00FF&logo=Appium&logoColor=8B00FF&label=)
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![Cucumber](https://img.shields.io/static/v1?style=for-the-badge&message=Cucumber&color=222222&logo=Cucumber&logoColor=23D96C&label=)
@@ -27,7 +28,6 @@
 ![RabbitMQ](https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 ![Kibana](https://img.shields.io/static/v1?style=for-the-badge&message=Kibana&color=005571&logo=Kibana&logoColor=FFFFFF&label=)
