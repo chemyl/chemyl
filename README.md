@@ -1,7 +1,6 @@
 ## Welcome to my projects page👋
 ### About me:
--    🟢 Software AQA engineer with 4+ years of Java test automation experience;
--    🟢 REST, SOAP, WebSocket, Microservices, WebUI, MobileUI, Queue, Data Quality;
+-    🟢 5+ years of extensive experience in Quality Assurance & Software Testing Automation;
 -    🟢 ISTQB® Certified Tester;
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolya-maltsev/)
@@ -10,6 +9,7 @@
 ### Programming Languages:
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=red&logo=Java&logoColor=8B00FF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=7F52FF&logo=Typescript&logoColor=FFFFFF&label=)
+![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=green&logo=Dart&logoColor=blue&label=)
 
 ### Test automation Software:
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
@@ -40,5 +40,5 @@
 
 ### My GitHub stats:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemyl&hide=TeX&layout=compact&theme=calm_pink)
-
+ 
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chemyl.chemyl)
