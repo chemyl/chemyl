@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolya-maltsev/)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/replicantDuke)
-#26A5E4
+
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
