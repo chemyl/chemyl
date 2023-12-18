@@ -1,7 +1,14 @@
 ## Welcome to my projects page👋
 ### About me:
--    🟢 5+ years of extensive experience in Quality Assurance & Software Testing Automation;
--    🟢 ISTQB® Certified Tester;
+-    🟢 Quality Assurance Process & Software Testing Automation;
+-    🔵 REST API Test Automation;
+-    🔵 GraphQL Test Automation;
+-    🔵 WebSocket API Test Automation;
+-    🟣 SQL DataBase Test Automation;
+-    🟣 Queue Test Automation;
+-    🟣 SOAP, REST, FTP, TCP Load Testing;
+-    🟠 Cross-browser UI Test Automation;
+-    🟠 Mobile UI Test Automation;
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolya-maltsev/)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/replicantDuke)
