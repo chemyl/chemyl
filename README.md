@@ -9,7 +9,7 @@
 -    🟣 SOAP, REST, FTP, TCP Load Testing;
 -    🟠 Cross-browser UI Test Automation;
 -    🟠 Mobile UI Test Automation;
-
+(https://www.codewars.com/users/chemyl/badges/micro)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolya-maltsev/)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/replicantDuke)
 
