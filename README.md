@@ -1,7 +1,4 @@
-## Welcome to my projects page👋
-### About me:
--    🟢 Quality Assurance Process & Software Testing Automation;
--    
+
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/replicantDuke)
 
 ### My GitHub stats:
