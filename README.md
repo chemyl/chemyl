@@ -3,5 +3,6 @@
 
 ### My GitHub stats:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemyl&hide=TeX&layout=compact&theme=calm_pink)
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chemyl.chemyl)
+
  ![wars](https://www.codewars.com/users/chemyl/badges/micro)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chemyl.chemyl)
