@@ -1,4 +1,4 @@
-AQA Engineer | Java SDET | Aspiring Rust Enthusiast
+🧪 AQA Engineer | ⌨️ Java SDET | 🦀 Aspiring Rust Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolya-maltsev/)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/replicantDuke)
